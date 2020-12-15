@@ -1,5 +1,4 @@
 body {
-  height: 100%;
   background-image: url(https://images.pexels.com/photos/544917/pexels-photo-544917.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1500);
   background-position: center;
   background-repeat: no-repeat;
@@ -24,8 +23,7 @@ h1 {
 
 .neu {
   margin: 20px;
-  width: 300px;
-  height: 300px;
+  padding: 150px;
   background: rgba(202, 196, 196, 0.1);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(9.5px);
